@@ -20,6 +20,6 @@
 - Adicione o seu bot a um servidor. 
 
 # Para rodar o bot utilize:
-- node . (no seu terminal)
+- npm start (no seu terminal)
 
 ## Pronto você tem o seu próprio neyBot faça suas alterações :)
