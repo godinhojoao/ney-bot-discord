@@ -7,6 +7,7 @@
 
 # Para rodar na sua máquina utilize:
 - git clone https://github.com/godinhojoao/DiscordBotMeninoNey
+- instale o nodeJs
 - npm install
 
 # Após copiar o projeto e baixar suas dependencias:
