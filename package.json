@@ -1,0 +1,16 @@
+{
+  "name": "neyBotDiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "jimp": "^0.16.0"
+  }
+}
